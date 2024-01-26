@@ -62,7 +62,7 @@ int main()
     printVector(arr);
 
     // Reset array for the next rotation
-    arr = {1, 2, 3, 4, 5, 6, 7};
+    arr = {1, 2, 3, 4, 5, 6, 7, 8};
 
     // Rotate a specific number of positions
     int rotationSize = 2;
