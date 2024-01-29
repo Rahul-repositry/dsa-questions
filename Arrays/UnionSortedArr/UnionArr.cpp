@@ -31,7 +31,7 @@ int main()
 
     std::vector<int> result = unionSortedArrays(arr1, arr2);
 
-    std::cout << "Union of sorted arrays: ";
+    std::cout << "Union of sorted arrays:  ";
     for (int num : result)
     {
         std::cout << num << " ";
